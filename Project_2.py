@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Mar 23 14:37:48 2019
-@author: ignacy
+@author: ignacy/nurczan
 """
 
 
